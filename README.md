@@ -4,3 +4,6 @@
 ## Forms
 - [Formspree](http://formspree.io)
 - [FormKeep](https://formkeep.com)
+
+## Maps
+- [Pixel Map Generator](http://pixelmap.amcharts.com)
